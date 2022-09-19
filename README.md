@@ -21,7 +21,7 @@ El proyecto consiste en un circuito electrónico cuyo objetivo es emular una ver
 - Software: Arduino IDE y Proteus
 
 Se puede observar la lista de precios:
-![github-small]([https://github.com/PhycomEspol/2.-Juego-con-matriz-led/blob/main/imagenes/precios.jpeg)
+![github-small](https://github.com/PhycomEspol/2.-Juego-con-matriz-led/blob/main/imagenes/precios.jpeg)
 
 
 ## Circuito
