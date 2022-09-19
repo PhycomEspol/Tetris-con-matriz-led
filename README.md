@@ -14,15 +14,15 @@ El proyecto consiste en un circuito electrónico cuyo objetivo es emular una ver
 
 ## Circuito
 
-![github-small](https://github.com/PhycomEspol/2.-Juego-con-matriz-led/tree/main/imagenes/Circuito.png)
+![github-small](https://github.com/PhycomEspol/2.-Juego-con-matriz-led/blob/main/imagenes/Circuito.png)
 
 ## Implementación
 
-_Se muestra el circuito implementado 
-> ![github-small](https://github.com/PhycomEspol/2.-Juego-con-matriz-led/tree/main/imagenes/implementacion1.jpeg)
+_Se muestra el circuito implementado_
+> ![github-small](https://github.com/PhycomEspol/2.-Juego-con-matriz-led/blob/main/imagenes/implementacion1.jpeg)
 
 _Se pueden observar cada uno de los componentes electrónicos implementados junto a sus correspondientes conexiones._
-> ![github-small](https://github.com/PhycomEspol/2.-Juego-con-matriz-led/tree/main/imagenes/implementacion2.jpeg)
+> ![github-small](https://github.com/PhycomEspol/2.-Juego-con-matriz-led/blob/main/imagenes/implementacion2.jpeg)
 
 ## ¿Por qué hacemos esto? ¿Para quién? ¿A quienes beneficia?
 
