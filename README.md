@@ -12,13 +12,17 @@ El proyecto consiste en un circuito electrónico cuyo objetivo es emular una ver
   - [Video](#Video) 
 
 ## Materiales
-1 Resistencia 10KΩ 0.25W
-5 Pulsadores N.A. o Push-Buttons N.A.
-1 Transistor NPN 2SC1815
-2 Módulos con Matrices de LEDs 8×8 con Circuito Integrado MAX7219 c/u.
-1 Buzzer Pasivo 5V
-1 Placa Arduino Nano
-Software: Arduino IDE y Proteus
+- 1 Resistencia 10KΩ 0.25W,
+- 5 Pulsadores N.A. o Push-Buttons N.A.
+- 1 Transistor NPN 2SC1815 
+- 2 Módulos con Matrices de LEDs 8×8 con Circuito Integrado MAX7219 c/u.
+- 1 Buzzer Pasivo 5V
+- 1 Placa Arduino Nano
+- Software: Arduino IDE y Proteus
+
+Se puede observar la lista de precios:
+![github-small]([https://github.com/PhycomEspol/2.-Juego-con-matriz-led/blob/main/imagenes/precios.jpeg)
+
 
 ## Circuito
 
