@@ -4,13 +4,21 @@
 
 El proyecto consiste en un circuito electrónico cuyo objetivo es emular una versión de Tetris minimalista. Esto se logra trás realizar las respectivas simulaciones del código arduino. El entregable se describe como un dispositivo pequeño el cual podrá ser usado como una consola portátil.
 
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Karen Thamara Torres Medina / Mecatrónica / 0963146447`
-
 ## Contenido:
-  - [Circuito Esquemático](#Circuito) 
+  - [Materiales](#Materiales) 
+  - [Circuito Esquemático](#Circuito)
   - [Implementación en Protoboard](#Implementación) 
   - [Simulaciones del proyecto](#Simulaciones) 
   - [Video](#Video) 
+
+## Materiales
+1 Resistencia 10KΩ 0.25W
+5 Pulsadores N.A. o Push-Buttons N.A.
+1 Transistor NPN 2SC1815
+2 Módulos con Matrices de LEDs 8×8 con Circuito Integrado MAX7219 c/u.
+1 Buzzer Pasivo 5V
+1 Placa Arduino Nano
+Software: Arduino IDE y Proteus
 
 ## Circuito
 
